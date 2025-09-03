@@ -1,4 +1,4 @@
-# biodata.md
+
 # Biodata Singkat
 
 **Nama**: Muhammad Aldila Rasyid Afandi (Aldi)
